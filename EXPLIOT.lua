@@ -57,6 +57,7 @@ Section:NewButton("M249 By vynixus (Execute in pre run shop)", "This is made by 
 
 Section:NewButton("VHub", "Made By Veincx5315", function()
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
+end)
 
 -- Services
 
